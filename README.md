@@ -1,20 +1,15 @@
-📞 Call Centre Report Dashboard – 2023
-📌 Project Overview
-
-This dashboard was developed to analyze and monitor the operational performance of a call centre for the year 2023. It provides a complete overview of customer interactions, representative performance, revenue generation, customer satisfaction, and regional contribution using interactive Excel visualizations.
-
-The dashboard helps businesses:
-
-Track overall call centre efficiency
-Monitor customer satisfaction
-Evaluate representative productivity
-Analyze branch-wise revenue contribution
-Identify operational trends and patterns
-🛠 Tools & Technologies Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Data Cleaning & Transformation
-Dashboard Designing
+Call Centre Report Dashboard – 2023
+Developed an interactive Call Centre Performance Dashboard in Microsoft Excel to analyze customer calls, revenue generation, representative performance, customer satisfaction, and branch-wise contribution. The dashboard uses Pivot Tables, Pivot Charts, KPI cards, slicers, and data visualization techniques to transform raw operational data into meaningful business insights for better decision-making.
+Project Highlights
+•	Analyzed 850+ customer calls and operational KPIs.
+•	Tracked revenue generation, customer ratings, and call duration.
+•	Created interactive visualizations for monthly trends and branch-wise analysis.
+•	Evaluated representative performance using dynamic filters and charts.
+•	Provided actionable business insights and operational recommendations.
+Tools & Technologies Used
+•	Microsoft Excel
+•	Pivot Tables & Pivot Charts
+•	Data Cleaning & Transformation
+•	Conditional Formatting
+•	Slicers & KPI Cards
+•	Dashboard Design & Visualization
